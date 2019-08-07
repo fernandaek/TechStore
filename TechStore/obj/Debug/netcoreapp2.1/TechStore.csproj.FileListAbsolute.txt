@@ -1,0 +1,11 @@
+C:\Summer Courser\C#\Lesson 7\TechStore\TechStore\bin\Debug\netcoreapp2.1\TechStore.deps.json
+C:\Summer Courser\C#\Lesson 7\TechStore\TechStore\bin\Debug\netcoreapp2.1\TechStore.runtimeconfig.json
+C:\Summer Courser\C#\Lesson 7\TechStore\TechStore\bin\Debug\netcoreapp2.1\TechStore.runtimeconfig.dev.json
+C:\Summer Courser\C#\Lesson 7\TechStore\TechStore\bin\Debug\netcoreapp2.1\TechStore.dll
+C:\Summer Courser\C#\Lesson 7\TechStore\TechStore\bin\Debug\netcoreapp2.1\TechStore.pdb
+C:\Summer Courser\C#\Lesson 7\TechStore\TechStore\obj\Debug\netcoreapp2.1\TechStore.csprojAssemblyReference.cache
+C:\Summer Courser\C#\Lesson 7\TechStore\TechStore\obj\Debug\netcoreapp2.1\TechStore.csproj.CoreCompileInputs.cache
+C:\Summer Courser\C#\Lesson 7\TechStore\TechStore\obj\Debug\netcoreapp2.1\TechStore.AssemblyInfoInputs.cache
+C:\Summer Courser\C#\Lesson 7\TechStore\TechStore\obj\Debug\netcoreapp2.1\TechStore.AssemblyInfo.cs
+C:\Summer Courser\C#\Lesson 7\TechStore\TechStore\obj\Debug\netcoreapp2.1\TechStore.dll
+C:\Summer Courser\C#\Lesson 7\TechStore\TechStore\obj\Debug\netcoreapp2.1\TechStore.pdb
